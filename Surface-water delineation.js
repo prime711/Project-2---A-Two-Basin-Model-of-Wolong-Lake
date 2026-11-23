@@ -1,4 +1,7 @@
-// =====================================================================
+// =======================================================================================
+// The following codes are used for the code editor in Google Earth Engine (GEE) platform
+// =======================================================================================
+
 // Wolong Lake: Sentinel-2 water mask, lake-only north/south split,
 // area shares, and Figure 1c export.  One script, one mask.
 // =====================================================================
